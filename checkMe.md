@@ -1,0 +1,1 @@
+# SimpleWeb-Page-no-Reactj    , a webpage using  basic html5 ,css3 , vanila javascript. next page will be made by react and will be linked to this one through one of thr buttons. each button will lead to a page built with techonolgies i will learn in the next 3 months.
