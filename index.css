@@ -1,0 +1,221 @@
+
+
+
+body{
+    background-color: #403535;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+    font-weight: 1500;
+    background-image: url("banner.jpeg");
+    border-radius: 100%;
+    opacity: 1;
+}
+
+h1:hover{
+    opacity: 0.5;
+}
+
+
+
+nav{
+    text-align: center;
+    background-color: #403535;
+    width: fit-content;
+    border-radius: 2rem;
+    margin: 20px;
+    padding: 20px;
+}
+
+nav:hover{
+    border-style: dashed;
+    padding: 40px;
+    border-color:#294023;
+    border-style: dotted;
+}
+
+
+img{
+    border-radius: 100px;
+    border-color: black;
+    width:80%;
+    height:20%;
+    padding: 50px;
+    opacity: 0.9;
+   
+
+}
+
+
+img:hover {
+    background-color: #6f553f;
+    opacity: 1;
+    transform: rotateY(180deg);
+    box-shadow: 0 2rem 2rem rgba(0, 0, 0, .5);
+    transition:all 1s;
+    cursor:zoom-in;
+
+    
+   
+    
+    
+}
+
+
+
+button{
+    
+    padding: 10px;
+    margin: 15px;
+    width:400px ;
+    background-color: brown;
+    border-radius: 10px;
+    font-family: Georgia, serif;
+    font-size: 2.5rem;
+    
+    
+}
+
+
+button:hover{
+    box-shadow: 5px 10px 20px white;
+    cursor:pointer;
+}
+
+
+#cmnt{
+
+    text-align: center;
+    padding: 3px;
+    margin: 5px;
+    width:150px ;
+    background-color: rgb(8, 64, 22);
+    font-size: 1.5rem;
+}
+
+input{
+    width: 300px;
+    padding: 10px;
+    margin: 15px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 200px;
+}
+
+input:hover{
+    background-color:darkred ;
+}
+
+
+
+
+footer{
+
+    background-color: #6f553f;
+    text-align: center;
+    padding: 0.8rem;
+    margin: 0.8rem;
+    border-radius: 1000px;
+    width:40%;
+    float: right;
+}
+
+
+
+#date{
+    width: fit-content;
+}
+
+
+
+
+
+
+div.prgdiv{
+    color:#6f553f;
+    width: 50%;
+    float: left;
+    font-size: 25px;
+    text-align:left;
+    background-color:#294023;
+    border-radius: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6;
+    text-indent: 42px;
+
+    
+    
+}
+
+
+
+
+
+
+div.divfather{
+    background-color: #403535;
+    text-align: center;
+    border-radius: 60px;
+    margin: 50px;
+
+
+    width: 42%;
+    float: right;
+    
+}
+
+
+
+
+
+
+
+
+
+
+.gg-arrow-down-r{
+    font-size: 4rem;
+    font-weight: 900;
+}
+
+
+
+li{
+    color: white;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-style:italic;
+    font-stretch:expanded;
+    border-radius: 10px;
+    width: 25%;
+
+}
+
+h2{
+    text-decoration: underline ;
+    color: black;
+    font-family: Georgia, serif
+}
+
+
+.firstp{
+    
+    background-color:black;
+    color: #d2c4ae;
+    border-radius: 50px;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    opacity: 0.8;
+}
+.firstp:hover{
+    color: black;
+    background-color:white;
+    opacity: 1;
+}
